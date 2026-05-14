@@ -95,7 +95,7 @@ export default function Footer() {
             <ul className="space-y-3 text-black text-sm">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-black flex-shrink-0 mt-0.5" />
-                <span>Ishwardi, Pabna, Rajshahi, Bangladesh</span>
+                <span>Yakub Ali Market-1, Mawna , Sreepur, Gazipur</span>
               </li>
               {/* <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-black flex-shrink-0" />
